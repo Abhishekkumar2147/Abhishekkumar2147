@@ -2,12 +2,12 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 -🌱 I’m currently learning HTML,CSS,JavaScript,Python etc
  <Br>
-- 👨‍💻 All of my projects are available at :- (https://github.com/Abhishekkumar2147?tab=projects](https://github.com/Abhishekkumar2147?tab=projects)
-<br>
-- 📫 How to reach me :- abhishekkumar100720@gmail.com
+- 👨‍💻 All of my projects are available at : https://github.com/Abhishekkumar2147?tab=repositories
 <br>
 - 📄 Know about my experiences :-[https://drive.google.com/file/d/1dCEyKg0OSKKsi8YcfxvC6hlDVHpFB9I5/view?usp=drivesdk](https://drive.google.com/file/d/1dCEyKg0OSKKsi8YcfxvC6hlDVHpFB9I5/view?usp=drivesdk)
 <br>
+ -📫 How to reach me :- abhishekkumar100720@gmail.com
+ <br>
 - ⚡ Fun fact I am funny😅
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
