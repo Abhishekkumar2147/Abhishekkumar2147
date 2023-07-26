@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Abhishek Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek-kumar&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek-kumar" /> </p>
 -🌱 I’m currently learning HTML,CSS,JavaScript,Python etc
  <Br>
 - 👨‍💻 All of my projects are available at : https://github.com/Abhishekkumar2147?tab=repositories
@@ -9,12 +12,6 @@
  -📫 How to reach me :- abhishekkumar100720@gmail.com
  <br>
 - ⚡ Fun fact I am funny😅
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek-kumar&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek-kumar" /> </p>
-
-- ⚡ Fun fact I am funny😅
-  <body>background-color:yellow;</body>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
